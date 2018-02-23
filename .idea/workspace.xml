@@ -10,11 +10,220 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6be0170-c7e6-48b3-825c-af10d83d11d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/AjaxChat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AjaxChat.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Beans/Message.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Beans/User.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Database.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Database/DatabaseConn.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Database/UserOperation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Servlets/LoginHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Servlets/LogoutHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Servlets/RegisterHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/db.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/lib/mysql-connector-java-6.0.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/lib/sqlite-jdbc-3.21.0.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/js/npm.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/css/form-elements.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/HELP-US-OUT.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/animated.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/fixed-width.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/font-awesome.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/icons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/larger.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/path.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/stacked.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_animated.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_larger.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_path.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/favicon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/img/backgrounds/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/img/backgrounds/Beautiful-Wallpaper.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/ajaxLogin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/jquery-1.11.1.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/jquery-1.11.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/jquery.backstretch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/jquery.backstretch.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/placeholder.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/scripts.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/chat.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/css/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/css/util.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/animated.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/fixed-width.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/font-awesome.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/icons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/larger.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/path.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/screen-reader.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/stacked.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_animated.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_larger.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_path.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Black.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-BlackItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Bold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-BoldItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ExtraBold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ExtraLight.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Italic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Light.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-LightItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Medium.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-MediumItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-SemiBold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Thin.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ThinItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/OFL.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Black.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-BlackItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Bold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-BoldItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ExtraBold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ExtraBoldItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ExtraLight.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ExtraLightItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Italic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Light.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-LightItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Medium.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-MediumItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-SemiBold.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-SemiBoldItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Thin.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ThinItalic.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/Beautiful-Wallpaper.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/bg-01.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/icons/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/icons/icon-google.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/icons/map-marker.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/icons/symbol-01.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/index.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/js/loginScript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/js/registerScript.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/register.jsp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animate/animate.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animsition/css/animsition.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animsition/css/animsition.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animsition/js/animsition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animsition/js/animsition.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-grid.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-reboot.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/popper.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/popper.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/countdowntime/countdowntime.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/css-hamburgers/hamburgers.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/css-hamburgers/hamburgers.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/daterangepicker/daterangepicker.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/daterangepicker/daterangepicker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/daterangepicker/moment.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/daterangepicker/moment.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/jquery/jquery-3.2.1.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/perfect-scrollbar/perfect-scrollbar.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/select2/select2.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/select2/select2.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/select2/select2.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/select2/select2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Beans/Message.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Beans/User.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Database/UserOperation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/LoginHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/LogoutHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/RegisterHandler.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -160,35 +369,6 @@
             <path>
               <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
@@ -430,12 +610,12 @@
       <workItem from="1519328784872" duration="4146000" />
       <workItem from="1519337586512" duration="1083000" />
       <workItem from="1519369478778" duration="3103000" />
-      <workItem from="1519372705091" duration="9436000" />
+      <workItem from="1519372705091" duration="9518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26528000" />
+    <option name="totallyTimeSpent" value="26610000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,7 +728,7 @@
         <state relative-caret-position="306">
           <caret line="18" column="63" lean-forward="false" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
           <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -558,7 +738,7 @@
         <state relative-caret-position="102">
           <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -584,7 +764,7 @@
         <state relative-caret-position="646">
           <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="49" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
             <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
           </folding>
@@ -596,7 +776,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
             <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
           </folding>
@@ -625,7 +805,7 @@
         <state relative-caret-position="391">
           <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
             <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
           </folding>
@@ -652,7 +832,7 @@
         <state relative-caret-position="238">
           <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -678,7 +858,7 @@
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
             <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
           </folding>
@@ -802,7 +982,7 @@
         <state relative-caret-position="441">
           <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#init#0;class#RegisterHandler#0" expanded="false" />
             <element signature="method#doGet#0;class#RegisterHandler#0" expanded="false" />
             <element signature="method#doPost#0;class#RegisterHandler#0" expanded="false" />
@@ -825,7 +1005,7 @@
         <state relative-caret-position="203">
           <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
             <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
           </folding>
@@ -853,7 +1033,7 @@
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -863,9 +1043,9 @@
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#414#415#0" expanded="false" />
+            <element signature="e#472#473#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -883,7 +1063,7 @@
         <state relative-caret-position="20">
           <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
