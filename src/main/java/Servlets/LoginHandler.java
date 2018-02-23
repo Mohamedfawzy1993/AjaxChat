@@ -1,9 +1,8 @@
 package Servlets;
 
 import Beans.User;
-import Database.UserOperation;
+import Model.Database.UserOperation;
 
-import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -12,7 +11,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.sql.SQLException;
 import java.util.HashMap;
 
 @WebServlet( urlPatterns = "/Login")
@@ -69,9 +67,9 @@ public class LoginHandler extends HttpServlet{
         return userHashMap;
     }
 
-    private void createUserSession(HttpServletRequest request , User user)
-    {
+    private void createUserSession(HttpServletRequest request , User user) {
         HttpSession httpSession = request.getSession(true);
         httpSession.setAttribute("userData" , user);
+
     }
 }

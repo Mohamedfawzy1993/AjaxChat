@@ -2,17 +2,18 @@ package Beans;
 
 public class Message {
 
-    private User sender;
+    private String ids;
+    private String sender;
     private String msg;
 
     public Message() {
     }
 
-    public User getSender() {
+    public String getSender() {
         return sender;
     }
 
-    public void setSender(User sender) {
+    public void setSender(String sender) {
         this.sender = sender;
     }
 
@@ -22,5 +23,13 @@ public class Message {
 
     public void setMsg(String msg) {
         this.msg = msg;
+    }
+
+    public String getId() {
+        return ids;
+    }
+
+    public void setId(String id) {
+        this.ids = id;
     }
 }

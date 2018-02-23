@@ -14,7 +14,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/OnlineUsers.js"></script>
+    <script src="js/ChatHandle.js"></script>
 </head>
 <body style="background-image: url('images/Beautiful-Wallpaper.jpg') ; background-repeat: no-repeat;  background-attachment:fixed;   background-size: cover;" >
 
@@ -22,8 +24,9 @@
     <br><br>
     <div class="row">
         <div class="col text-right">
-
-            <button type="button" class="btn btn-primary"><i class="fas fa-sign-out-alt" style="font-size:21px;color:white"></i></button>
+            <form action="/logout">
+            <button type="submit" class="btn btn-primary"><i class="fas fa-sign-out-alt" style="font-size:21px;color:white" ></i></button>
+            </form>
             <br><br><br>
         </div>
     </div>
@@ -37,22 +40,8 @@
                     <th scope="w-75">Message</th>
                 </tr>
                 </thead>
-                <tbody>
-                <tr>
+                <tbody id="msgTable">
 
-                    <td>Otto</td>
-                    <td>@mdo</td>
-                </tr>
-                <tr>
-
-                    <td>Thornton</td>
-                    <td>@fat</td>
-                </tr>
-                <tr>
-
-                    <td>Larry the Bird</td>
-                    <td>@twitter</td>
-                </tr>
                 </tbody>
             </table>
         </div>
@@ -63,17 +52,20 @@
                     <th>Online Users</th>
                 </tr>
                 </thead>
+                <tbody id="tableBody">
                 <tr>
                     <td>Mohamed</td>
                 </tr>
+                </tbody>
             </table>
         </div>
     </div>
     <div class="row">
         <div class="input-group mb-3 col-12 col-md-8"  >
-            <input type="text" class="form-control" placeholder="Message" aria-label="Message" aria-describedby="basic-addon2">
+            <input type="text" class="form-control" placeholder="Message" aria-label="Message" aria-describedby="basic-addon2" id="msg">
             <div class="input-group-append">
-                <button class="btn btn-outline-secondary" type="button" style="background-color: white">Send</button>
+                <input type="hidden" id="msgIndex" value="0"/>
+                <button class="btn btn-outline-secondary" type="button" style="background-color: white" onclick="sendMsg()">Send</button>
             </div>
     </div>
 </div>

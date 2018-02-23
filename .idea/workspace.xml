@@ -5,225 +5,20 @@
       <artifact name="Ajax Project:war exploded" />
     </artifacts-to-build>
   </component>
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/web/chat.jsp" line="18" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="d6be0170-c7e6-48b3-825c-af10d83d11d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/META-INF/MANIFEST.MF" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Beans/Message.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Beans/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Database.db" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Database/DatabaseConn.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Database/UserOperation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Servlets/LoginHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Servlets/LogoutHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/Servlets/RegisterHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/classes/db.db" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/lib/mysql-connector-java-6.0.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/WEB-INF/lib/sqlite-jdbc-3.21.0.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/bootstrap/js/npm.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/css/form-elements.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/HELP-US-OUT.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/css/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/animated.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/bordered-pulled.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/core.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/fixed-width.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/font-awesome.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/icons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/larger.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/list.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/path.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/rotated-flipped.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/stacked.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/less/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_animated.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_core.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_fixed-width.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_larger.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_path.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_stacked.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/ico/favicon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/img/backgrounds/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/img/backgrounds/Beautiful-Wallpaper.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/ajaxLogin.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/jquery-1.11.1.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/jquery-1.11.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/jquery.backstretch.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/jquery.backstretch.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/placeholder.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/assets/js/scripts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/chat.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/css/util.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/css/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/animated.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/core.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/fixed-width.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/font-awesome.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/icons.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/larger.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/list.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/mixins.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/path.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/screen-reader.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/stacked.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/less/variables.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_animated.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_core.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_icons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_larger.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_list.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_path.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Black.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-BlackItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Bold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-BoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ExtraBold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ExtraLight.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Italic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Light.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-LightItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Medium.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-MediumItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-SemiBold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-Thin.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/Montserrat-ThinItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/montserrat/OFL.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Black.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-BlackItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Bold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-BoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ExtraBold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ExtraBoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ExtraLight.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ExtraLightItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Italic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Light.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-LightItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Medium.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-MediumItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-SemiBold.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-SemiBoldItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-Thin.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/fonts/poppins/Poppins-ThinItalic.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/Beautiful-Wallpaper.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/bg-01.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/icons/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/icons/icon-google.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/icons/map-marker.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/images/icons/symbol-01.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/index.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/js/loginScript.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/js/registerScript.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/register.jsp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animate/animate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animsition/css/animsition.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animsition/css/animsition.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animsition/js/animsition.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/animsition/js/animsition.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-grid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-grid.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-reboot.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-reboot.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/popper.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/popper.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/bootstrap/js/tooltip.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/countdowntime/countdowntime.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/css-hamburgers/hamburgers.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/css-hamburgers/hamburgers.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/daterangepicker/daterangepicker.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/daterangepicker/daterangepicker.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/daterangepicker/moment.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/daterangepicker/moment.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/jquery/jquery-3.2.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/perfect-scrollbar/perfect-scrollbar.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/select2/select2.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/select2/select2.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/select2/select2.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Ajax_Project_war_exploded/vendor/select2/select2.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Beans/Message.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Beans/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Database/UserOperation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/LoginHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/LogoutHandler.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Servlets/RegisterHandler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Ajax_Project_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Ajax_Project_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Ajax Project.iml" afterPath="$PROJECT_DIR$/Ajax Project.iml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Beans/Message.java" afterPath="$PROJECT_DIR$/src/main/java/Beans/Message.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Database/UserOperation.java" afterPath="$PROJECT_DIR$/src/main/java/Model/Database/UserOperation.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/ChatHandler.java" afterPath="$PROJECT_DIR$/src/main/java/Servlets/ChatHandler.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java" afterPath="$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Servlets/LogoutHandler.java" afterPath="$PROJECT_DIR$/src/main/java/Servlets/LogoutHandler.java" />
+      <change beforePath="$PROJECT_DIR$/web/chat.jsp" afterPath="$PROJECT_DIR$/web/chat.jsp" />
+      <change beforePath="$PROJECT_DIR$/web/js/loginScript.js" afterPath="$PROJECT_DIR$/web/js/loginScript.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -252,13 +47,105 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="ChatHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/ChatHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="71" column="42" lean-forward="false" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="42" />
+              <folding>
+                <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
+                <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatHandle.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/js/ChatHandle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/chat.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="66" column="49" lean-forward="false" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registerScript.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/js/registerScript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Beans/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Message.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Beans/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+              <folding>
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContextListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/listener/ContextListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
         <option value="JavaScript File" />
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
@@ -288,21 +175,34 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9e983920-61fb-46d2-8bfc-82d01542cb06/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/535659fc-d8c2-49ce-8708-a7d465414dab/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2ddbb1b5-13a1-4cb1-a150-9624e391670b/console.sql" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Database/DatabaseConn.java" />
         <option value="$PROJECT_DIR$/web/assets/js/ajaxLogin.js" />
-        <option value="$PROJECT_DIR$/src/main/java/Beans/Message.java" />
         <option value="$PROJECT_DIR$/src/main/java/Database/UserOperation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Beans/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/ChatHandler.java" />
         <option value="$PROJECT_DIR$/web/js/registerScript.js" />
         <option value="$PROJECT_DIR$/src/main/java/Servlets/RegisterHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/LogoutHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java" />
-        <option value="$PROJECT_DIR$/web/js/loginScript.js" />
-        <option value="$PROJECT_DIR$/web/chat.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/register.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/RegisterHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/LoginHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Database/Jsonhandler.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Jsonhandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Servlets/LogoutHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Servlets/OnlineUserHandler.java" />
+        <option value="$PROJECT_DIR$/web/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/listener/SessionListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/filter/ChatFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/filter/OnlineFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/listener/ContextListener.java" />
+        <option value="$PROJECT_DIR$/web/js/OnlineUsers.js" />
+        <option value="$PROJECT_DIR$/web/chat.jsp" />
+        <option value="$PROJECT_DIR$/web/js/loginScript.js" />
+        <option value="$PROJECT_DIR$/src/main/java/Beans/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Servlets/ChatHandler.java" />
+        <option value="$PROJECT_DIR$/web/js/ChatHandle.js" />
       </list>
     </option>
   </component>
@@ -345,6 +245,28 @@
     <option name="width" value="560" />
     <option name="height" value="1010" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BadExpressionStatementJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -361,8 +283,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -372,13 +292,72 @@
             </path>
             <path>
               <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Servlets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AjaxChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ajax Project" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -611,11 +590,12 @@
       <workItem from="1519337586512" duration="1083000" />
       <workItem from="1519369478778" duration="3103000" />
       <workItem from="1519372705091" duration="9518000" />
+      <workItem from="1519385290193" duration="17197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26610000" />
+    <option name="totallyTimeSpent" value="43807000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -628,6 +608,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5550122" order="9" side_tool="true" content_ui="tabs" />
@@ -635,7 +616,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40963855" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40898877" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15158924" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -647,10 +628,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.49266502" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27865168" sideWeight="0.4413203" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27865168" sideWeight="0.4413203" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26772615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2695599" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -688,12 +669,12 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.49266502" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27865168" sideWeight="0.4413203" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27865168" sideWeight="0.4413203" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.49511003" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26772615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27017114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -714,7 +695,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -723,148 +704,8 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/chat.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="63" lean-forward="false" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Database/UserOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/RegisterHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/ChatHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
-            <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
-            <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2448">
-          <caret line="144" column="16" lean-forward="false" selection-start-line="144" selection-start-column="16" selection-end-line="144" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/assets/js/ajaxLogin.js" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
-            <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Database/DatabaseConn.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4471">
-          <caret line="263" column="0" lean-forward="false" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/sql/DriverManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5559">
-          <caret line="327" column="64" lean-forward="false" selection-start-line="321" selection-start-column="10" selection-end-line="327" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Database/UserOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="40" lean-forward="false" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
-            <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java" />
     <entry file="file://$PROJECT_DIR$/web/index.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Database/Connection.java" />
     <entry file="file://$PROJECT_DIR$/web/assets/js/scripts.js" />
@@ -915,100 +756,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="74" lean-forward="false" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/assets/js/ajaxLogin.js" />
     <entry file="file://$PROJECT_DIR$/web/assets/img/backgrounds/1.jpg" />
     <entry file="file://$PROJECT_DIR$/web/assets/css/style.css" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Database/DatabaseConn.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Database/UserObj.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Beans/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#148#149#0" expanded="false" />
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#219#220#0" expanded="false" />
-            <element signature="e#255#256#0" expanded="false" />
-            <element signature="e#285#286#0" expanded="false" />
-            <element signature="e#311#312#0" expanded="false" />
-            <element signature="e#349#350#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Beans/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/ChatHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/glassfish-4.1.1/glassfish/modules/javax.servlet-api.jar!/javax/servlet/ServletContext.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/registerScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/RegisterHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#init#0;class#RegisterHandler#0" expanded="false" />
-            <element signature="method#doGet#0;class#RegisterHandler#0" expanded="false" />
-            <element signature="method#doPost#0;class#RegisterHandler#0" expanded="false" />
-            <element signature="method#registerHandleMethod#0;class#RegisterHandler#0" expanded="false" />
-            <element signature="method#validateInput#0;class#RegisterHandler#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
-            <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1020,51 +776,235 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Database/UserOperation.java" />
+    <entry file="file://$PROJECT_DIR$/web/register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/glassfish-4.1.1/glassfish/modules/javax.servlet-api.jar!/javax/servlet/ServletContextListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar!/com/google/gson/Gson.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="356" column="31" lean-forward="false" selection-start-line="356" selection-start-column="25" selection-end-line="356" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/RegisterHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="81" lean-forward="false" selection-start-line="1" selection-start-column="81" selection-end-line="1" selection-end-column="81" />
+        <state relative-caret-position="510">
+          <caret line="30" column="45" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="30" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Jsonhandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="4671" column="30" lean-forward="false" selection-start-line="4671" selection-start-column="24" selection-end-line="4671" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/glassfish-4.1.1/glassfish/modules/javax.servlet-api.jar!/javax/servlet/http/HttpSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/filter/OnlineFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/filter/ChatFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/filter/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/listener/SessionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/OnlineUserHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/LogoutHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Database/UserOperation.java">
+    <entry file="file://$PROJECT_DIR$/web/js/OnlineUsers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#414#415#0" expanded="false" />
-            <element signature="e#472#473#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/listener/ContextListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="70" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/js/loginScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Beans/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/LoginHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="71" column="42" lean-forward="false" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="42" />
+          <folding>
+            <element signature="method#doGet#0;class#LoginHandler#0" expanded="false" />
+            <element signature="method#doPost#0;class#LoginHandler#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/registerScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Beans/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding>
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="313" column="27" lean-forward="false" selection-start-line="313" selection-start-column="24" selection-end-line="313" selection-end-column="27" />
+          <folding>
+            <element signature="e#11695#11696#0" expanded="true" />
+            <element signature="e#11730#11731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Servlets/ChatHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/chat.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="66" column="49" lean-forward="false" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/ChatHandle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1147,7 +1087,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: mysql:mysql-connector-java:5.1.6</last-edited>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

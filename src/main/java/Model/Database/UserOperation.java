@@ -1,7 +1,7 @@
-package Database;
+package Model.Database;
 
 import Beans.User;
-import java.sql.SQLException;
+
 import java.util.HashMap;
 
 public class UserOperation {
